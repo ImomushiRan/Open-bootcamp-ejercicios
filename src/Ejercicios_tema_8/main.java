@@ -1,4 +1,4 @@
-package Ejercicios_tema_5;
+package Ejercicios_tema_8;
 
 public class main {
     public static void main(String[] args) {
